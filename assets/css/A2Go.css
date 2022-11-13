@@ -1,0 +1,60 @@
+
+
+h1, h2, h3{
+    color:white;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    line-height: 1.5;
+    margin: 0 0 0.5em 0;
+}
+
+h4, h5, h6 {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Quattrocento', serif;
+    line-height: 1.5;
+    margin: 0 0 0.5em 0;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 25%;
+    padding: 5px;
+  }
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  img{
+    transition: 1s ease;
+  }
+
+  img:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+  }
+
+  iframe{
+    transition: .5s ease;
+  }
+
+  iframe:hover{
+    box-shadow:
+1px 1px #554087,
+2px 2px #554087,
+3px 3px #554087,
+4px 4px #554087,
+5px 5px #554087,
+6px 6px #554087;
+-webkit-transform: translateX(-3px);
+transform: translateX(-3px);
+transition: .5s ease;
+  }
