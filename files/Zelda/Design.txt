@@ -1,0 +1,46 @@
+﻿1. "What is the pitch for your custom level? (2-3 sentences)"
+The new level gives players the opportunity to approach puzzles in a new 
+and interesting way. While navigating the link and the clone's combined 
+movement mechanism, the player must decide which character should take the 
+lead, how to coordinate their movements, and how to manipulate the 
+environment to solve each room's puzzle. 
+
+   2. "What is the pitch for your custom mechanic? (2-3 sentences)"
+The main mechanic in the custom level is the use of a mirrored clone of Link. 
+The clone's horizontal movement mirrors the player's movements, while its 
+vertical movement remains the same. This creates a new challenge for the 
+player as they must consider both Link's and the clone's movements to find a 
+way to get them both into the correct position given the characteristics of 
+each room.
+   3. "How does your new mechanic / custom level change the way the game is played? 
+The new mechanic shifts the focus from action-based gameplay to puzzle-solving. 
+The lack of enemies and slower-moving blade traps slow down the pace of the game 
+and encourage players to think critically about Link's movement and the mechanics 
+of each room. The player must discover the correct strategy to advance, leading to 
+a more strategic and thought-provoking experience.
+   4. "What new interesting decisions does your new mechanic / custom level bring about?"
+The new mechanic requires players to make strategic decisions regarding the positioning 
+and movement of both Link and the clone.  Players must figure out how to position both 
+Link and the clone in correct positions. The player can move blocks to trap the clone or
+use blocks and walls to offset their positions to allow for them to simultaneously stand 
+over the pressure pads. The player must consider how to access pressure pads while 
+avoiding blade traps, and whether to use the clone as a shield or as bait. 
+These decisions add a new layer of complexity to the game, challenging the player 
+to think critically and creatively to advance through each room.
+   5. "How do you explain the new mechanic to the player (or make its utility obvious) 
+while they are playing without using a bunch of clumsy text?" 
+The player is gradually introduced to new mechanics and elements, 
+leading to a more complex and challenging experience as they progress 
+through the rooms.The first room introduces the clone and shows the 
+player that the clone's horizontal movement is mirrors. 
+Room 2 required the player to trap their clone to move onto the next room. 
+Room 3 shows the player that they can also offset their movements by walking 
+into walls so that the Link and the Clone move on different y and x coordinates. 
+Room 4 introduces blade traps covering the pressure pads. The player must offset 
+the y coordinates of link and the clone to prevent one or both being hit by the traps. 
+It also shows the player how the clone can be used as bait to set off the traps. 
+Room 5 presents a challenging final puzzle that incorporates all these elements
+   6. What are the URLs to your online portfolios 
+(where a web build OR win/mac download exists)?
+      1. http://msfangs.com/
+      2. https://fonsecap20.github.io/fonsecap/
